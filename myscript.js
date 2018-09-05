@@ -1,2 +1,2 @@
- window.location.href = 'https://github.com/danoreper'; 
+ window.location = 'https://github.com/danoreper'; 
   
